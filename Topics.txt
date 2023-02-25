@@ -1,0 +1,10 @@
+Agile
+Kanban
+Scrum
+CI
+CD
+
+Agile 
+DevOps
+Kanban
+Scrum
